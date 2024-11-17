@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+streamlit
+fer
+opencv-python
+joblib
